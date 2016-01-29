@@ -5,6 +5,8 @@
 [![Build Status](https://travis-ci.org/telusdigital/ansible-upstart.svg?branch=master)](https://travis-ci.org/telusdigital/ansible-upstart)
 [![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)](#)
 
+Forked from telusdigital because we need to depend on released versions.
+
 Tunables
 --------
 * `upstart_runtime_root` (string) - Directory for runtime data
